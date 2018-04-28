@@ -11,10 +11,17 @@ The breakout board has 2 Red LED's each with a 10K resistor in series. One for P
 PINOUT UDFN
 
 1-PB1
+
 2-NC
+
 3-NC
+
 4-GND
+
 5-PB0
-6-PB3(~RESET~)
+
+6-PB3(RESET)
+
 7-VCC
+
 8-PB2
